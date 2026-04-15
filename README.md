@@ -44,11 +44,11 @@ The diploma covers the full MBD workflow: from MATLAB & Simulink fundamentals th
 | 3 | 📊 MATLAB Basics Solutions (Quiz & Labs) | 3/3 | 3h 55m | ✅ Complete |
 | 4 | 🔧 Simulink Basics Module | 20/20 | 8h 58m | ✅ Complete |
 | 5 | 🔧 Simulink Basics Solutions (Lab & Quiz) | 3/3 | 4h 31m | ✅ Complete |
-| 6 | 🤖 Arduino Simulink Interface | 0/24 | 5h 47m | ⏳ Not Started |
-| 7 | 🎛️ PID Controller Design Module | 6/27 | 15h 13m | 🔄 In Progress |
-| 8 | 📝 MATLAB Scripting Module | 0/28 | 8h | ⏳ Not Started |
-| 9 | 🏗️ System Modeling Module | 0/20 | 5h 53m | ⏳ Not Started |
-| 10 | 🧩 Model Architecture | 0/15 | 4h 5m | ⏳ Not Started |
+| 6 | 🤖 Arduino Simulink Interface | 24/24 | 5h 47m | ✅ Complete |
+| 7 | 🎛️ PID Controller Design Module | 27/27 | 15h 13m | ✅ Complete |
+| 8 | 📝 MATLAB Scripting Module | 28/28 | 8h | ✅ Complete |
+| 9 | 🏗️ System Modeling Module | 20/20 | 5h 53m | ✅ Complete |
+| 10 | 🧩 Model Architecture | 0/15 | 4h 5m | 🔄 In Progress |
 | 11 | 🔀 Stateflow Design Module | 0/29 | 9h 35m | ⏳ Not Started |
 | 12 | ⚙️ Embedded Coder Module | 0/20 | 10h 6m | ⏳ Not Started |
 | 13 | 💾 C Programming Overview | 0/9 | 5h 25m | ⏳ Not Started |
