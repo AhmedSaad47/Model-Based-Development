@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26738462/README.md)
 # 🎓 Model-Based Development Diploma
 ### by OS Academy — Available on Udemy
 
