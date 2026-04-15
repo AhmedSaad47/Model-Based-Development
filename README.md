@@ -1,4 +1,3 @@
-# Model-Based-Development Diploma 
 # 🎓 Model-Based Development Diploma
 ### by OS Academy — Available on Udemy
 
