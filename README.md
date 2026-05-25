@@ -48,8 +48,8 @@ The diploma covers the full MBD workflow: from MATLAB & Simulink fundamentals th
 | 7 | 🎛️ PID Controller Design Module | 27/27 | 15h 13m | ✅ Complete |
 | 8 | 📝 MATLAB Scripting Module | 28/28 | 8h | ✅ Complete |
 | 9 | 🏗️ System Modeling Module | 20/20 | 5h 53m | ✅ Complete |
-| 10 | 🧩 Model Architecture | 0/15 | 4h 5m | 🔄 In Progress |
-| 11 | 🔀 Stateflow Design Module | 0/29 | 9h 35m | ⏳ Not Started |
+| 10 | 🧩 Model Architecture | 15/15 | 4h 5m | ✅ Complete |
+| 11 | 🔀 Stateflow Design Module | 0/29 | 9h 35m | 🔄 In Progress |
 | 12 | ⚙️ Embedded Coder Module | 0/20 | 10h 6m | ⏳ Not Started |
 | 13 | 💾 C Programming Overview | 0/9 | 5h 25m | ⏳ Not Started |
 | 14 | 🔋 Battery Management System (BMS) Project | 0/3 | 2h 4m | ⏳ Not Started |
